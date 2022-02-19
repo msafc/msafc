@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋🏻 
 
 My name is Meritxell and I am a junior web developer.
 
