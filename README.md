@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**msafc/msafc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Meritxell I am a junior web developer, I'm going to start my internship this March and will be learning as much as I can. Due to my artistical background I feel I can bring to the table a more creative problem solving approach to the projects. 
 
-Here are some ideas to get you started:
+Here you can find my very first projects on programming I've made during the programming course along with others I've done on my own spare time. If you have some questions or want to know more about a project don't hesitate to contact me, I leave my contact information below.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for reading!
+
+<!--🌱 I’m currently learning React-->
+📫 How to reach me: 
+    E-mail — mscervera@outlook.es
+    Telegram — @mscervera
+<!--😄 Pronouns: ... -->
+
+
