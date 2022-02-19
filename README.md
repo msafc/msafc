@@ -7,7 +7,7 @@
     </a>
 </div>
 <div id="views" align="center">
-    <img src="" alt="profile-views" align="center"/>
+    <img src="https://komarev.com/ghpvc/?username=msafc&color=ff69b4" alt="profile-views" align="center"/>
 </div>
 <h1 align="center">
   Welcome to my profile!
