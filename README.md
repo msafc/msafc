@@ -12,8 +12,11 @@ Thanks for reading!
 
 <!--🌱 I’m currently learning React-->
 📫 How to reach me: 
+
     E-mail — mscervera@outlook.es
+    
     Telegram — @mscervera
+    
 <!--😄 Pronouns: ... -->
 
 
