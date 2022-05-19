@@ -20,7 +20,7 @@
 
 ### :woman_technologist: About Me : I am a junior full stack developer.
 
-- :telescope: I’m starting my internship this March in a tech company
+- :telescope: Working on a tech company right now
 
 - :seedling: Teaching myself React
 
