@@ -18,7 +18,7 @@
  <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" width="400px"/>
 </div>
 
-### :woman_technologist: About Me : I am a junior full stack developer.
+### :woman_technologist: About Me : I am a junior front end developer.
 
 - :telescope: Working on a tech company right now
 
