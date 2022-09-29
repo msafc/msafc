@@ -22,7 +22,7 @@
 
 - :telescope: Working on a tech company right now
 
-- :seedling: Teaching myself React
+- :seedling: Learning React
 
 - :zap: On my free time I practice my programming.
 
